@@ -1,0 +1,4 @@
+#[]
+frutas = ["fresa", "durazno"]
+p frutas[0]
+#=>"fresa"
